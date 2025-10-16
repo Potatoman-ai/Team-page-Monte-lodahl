@@ -1,7 +1,14 @@
 # Team-page-Monte-lodahl
 <!DOCTYPE html>
-<html lang="en-US"
   <img src="https://cdn2.picryl.com/photo/2006/03/23/analog-radio-headphone-2ce421-1024.jpg"
   alt="Headphones"
   width="200px" height="400px"/>
-  </html>
+  <p style="margin-bottom: 70px";>Lets me listen to the game and hear what my opponent plays.</p>
+  <img src="https://source.roboflow.com/uJS18Zzuj9htLf7BG237x2bN0e13/01m0BTD3nbtUnre7vY56/original.jpg"
+  alt="Clash Royale"
+width="200px" height="400px"/>
+<p style="margin-bottom: 70px;">The Game that I play Clash Royale</p>
+<img src="https://source.roboflow.com/2ZiWnfcQi7XoMlbMV6XI8FBC6cz1/0g61ZFJtoy0BQ38tk59W/original.jpg"
+alt="Giant SKeleton"
+width="200px" height="200px"/>
+<p style="margin-bottom: 70px;"></p>
