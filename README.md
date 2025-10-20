@@ -11,4 +11,8 @@ width="200px" height="400px"/>
 <img src="https://source.roboflow.com/2ZiWnfcQi7XoMlbMV6XI8FBC6cz1/0g61ZFJtoy0BQ38tk59W/original.jpg"
 alt="Giant SKeleton"
 width="200px" height="200px"/>
-<p style="margin-bottom: 70px;"></p>
+<p style="margin-bottom: 70px;">My favorite and most used card in clash</p>
+<img src="https://source.roboflow.com/2ZiWnfcQi7XoMlbMV6XI8FBC6cz1/0SnjxfjAV91AwEWPe7kG/original.jpg"
+alt="Mega Knight"
+width="200px" height="200px"
+style="float: right; margin-left: 15px;"/>
