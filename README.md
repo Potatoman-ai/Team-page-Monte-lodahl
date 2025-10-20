@@ -5,7 +5,7 @@
   width="200px" height="300px"
   style="float: left; margin-right: 15px;"/>
   <p style="margin-bottom: 70px";>Lets me listen to the game and hear what my opponent plays.</p>
-  </br>
+  </hr>
   <img src="https://source.roboflow.com/uJS18Zzuj9htLf7BG237x2bN0e13/01m0BTD3nbtUnre7vY56/original.jpg" 
   alt="Clash Royale"
 width="200px" height="400px"/>
