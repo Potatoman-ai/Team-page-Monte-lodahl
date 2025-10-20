@@ -1,9 +1,8 @@
 # Team-page-Monte-lodahl
-
   <img src="https://cdn2.picryl.com/photo/2006/03/23/analog-radio-headphone-2ce421-1024.jpg"
   alt="Headphones"
   width="200px" height="300px"
-  style="float: left; margin-right: 15px;"/>
+  style="float: left; margin-right: 15px;"/> 
   <p style="margin-bottom: 70px";>Lets me listen to the game and hear what my opponent plays.</p>
   </hr>
   <img src="https://source.roboflow.com/uJS18Zzuj9htLf7BG237x2bN0e13/01m0BTD3nbtUnre7vY56/original.jpg" 
